@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Node.js, PIXI.js, THREE.js**
 
-- 📝 I regularly write articles on [not yet ;)](not yet ;))
-
 - 📫 How to reach me **threeunexpectedperson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
